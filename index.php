@@ -4,8 +4,8 @@
     <meta charset="UTF-8">
 
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
-    <link rel="stylesheet" href="Assets/css/style.css">
-    <link rel="stylesheet" href="Assets/php/formulaire.php">
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="php/formulaire.php">
     <title>Hackers Poulette</title>
 </head>
 <body>
@@ -21,7 +21,7 @@
     <div id="acceuille" class="acceuille container-fluid">
         <div class="row">
             <div class="titre col-sm-12 col-md-5 text-center order-2">
-                <img class="logo" class="img"src="Assets/img/hackers-poulette-logo.png" alt="logo,text,image">
+                <img class="logo" class="img"src="img/hackers-poulette-logo.png" alt="logo,text,image">
                 <h3 class="text-light">We Raspberry</h3>
             </div>
             
@@ -73,7 +73,7 @@
                     <h4 class="my-0 font-weight-normal">Raspberry Pi Bs</h4>
                 </div>
                 <div class="card-body">
-                    <img id="img" src="Assets/img/Raspberry_Pi_Model_B.jpg" alt="Raspberry Pi B">
+                    <img id="img" src="img/Raspberry_Pi_Model_B.jpg" alt="Raspberry Pi B">
                     <ul class="list-unstyled mt-3 mb-4">
                         <li>2 GB of storage</li>
                         <li>empty</li>
@@ -88,7 +88,7 @@
                 <h4 class="my-0 font-weight-normal">Raspberry PI B+</h4>
             </div>
             <div class="card-body">
-            <img id="img" src="Assets/img/Raspberry_Pi_B+.jpg" alt="Raspberry PI B+">
+            <img id="img" src="img/Raspberry_Pi_B+.jpg" alt="Raspberry PI B+">
                 <ul class="list-unstyled mt-3 mb-4">
                     <li>10 GB of storage</li>
                     <li>empty</li>
@@ -102,7 +102,7 @@
                 <h4 class="my-0 font-weight-normal">Raspberry Pi 2</h4>
             </div>
         <div class="card-body">
-        <img id="img" src="Assets/img/Raspberry_Pi_2.jpg" alt="Raspberry Pi 2">
+        <img id="img" src="img/Raspberry_Pi_2.jpg" alt="Raspberry Pi 2">
             <ul class="list-unstyled mt-3 mb-4">
                 <li>15 GB of storage</li>
                 <li>empty</li>
@@ -118,7 +118,7 @@
                     <h4 class="my-0 font-weight-normal">Raspberry Pi Bs</h4>
                 </div>
                 <div class="card-body">
-                <img id="img" src="Assets/img/Raspberry_Pi_3.JPG" alt="Raspberry Pi 3">
+                <img id="img" src="img/Raspberry_Pi_3.JPG" alt="Raspberry Pi 3">
                     <ul class="list-unstyled mt-3 mb-4">
                         <li>2 GB of storage</li>
                         <li>empty</li>
@@ -132,7 +132,7 @@
                     <h4 class="my-0 font-weight-normal">Raspberry Pi 3B+</h4>
                 </div>
                 <div class="card-body">
-                <img id="img" src="Assets/img/Raspberry_Pi_3_b+.jpg" alt="Raspberry Pi 3B+">
+                <img id="img" src="img/Raspberry_Pi_3_b+.jpg" alt="Raspberry Pi 3B+">
                     <ul class="list-unstyled mt-3 mb-4">
                         <li>10 GB of storage</li>
                         <li>empty</li>
@@ -146,7 +146,7 @@
                     <h4 class="my-0 font-weight-normal">Raspberry Pi 2</h4>
                 </div>
             <div class="card-body">
-            <img id="img" src="Assets/img/Raspberry_Pi_4.jpg" alt="Raspberry Pi 4">
+            <img id="img" src="img/Raspberry_Pi_4.jpg" alt="Raspberry Pi 4">
                 <ul class="list-unstyled mt-3 mb-4">
                     <li>15 GB of storage</li>
                     <li>empty</li>
@@ -241,7 +241,7 @@
     <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
     <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
-    <script src="Assets/js/script.js"></script>
+    <script src="js/script.js"></script>
     
 </body>
 </html>
